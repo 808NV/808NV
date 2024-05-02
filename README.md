@@ -1,16 +1,37 @@
-### Hi there 👋
+# Omar A
 
-<!--
-**808NV/808NV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `Connect with me` 
 
-Here are some ideas to get you started:
+<div>
+  <a href="">
+    <img width="45" height="45" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" alt="LinkedIn Badge"/>
+  </a>
+ 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# `Tech Stack` ⚙
+
+## Languages & markups
+
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,py)](https://skillicons.dev)
+
+## Frameworks (Frontend)
+
+[![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)
+
+## Frameworks (CSS)
+
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,sass,styledcomponents,materialui)](https://skillicons.dev)
+
+## Backend & Databases
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+
+## Tools
+
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode)](https://skillicons.dev)
+
+## Other 
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,netlify,vite,vercel,redux,reactquery)](https://skillicons.dev)
