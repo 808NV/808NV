@@ -34,4 +34,4 @@
 
 ## Other 
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,netlify,vite,vercel,redux,reactquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vite,vercel,redux,reactquery)](https://skillicons.dev)
