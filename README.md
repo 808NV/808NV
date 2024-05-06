@@ -3,7 +3,10 @@
 # `Connect with me` 
 
 <div>
-  <a href="">
+  <a href="www.linkedin.com/in/
+omar-a-78a318308
+
+">
     <img width="45" height="45" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" alt="LinkedIn Badge"/>
   </a>
  
